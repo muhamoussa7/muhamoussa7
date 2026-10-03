@@ -9,6 +9,7 @@ This is where I build product ideas end to end. Each project is written up the w
 | Project | What it does |
 |---|---|
 | [PageVera](https://github.com/muhamoussa7/pagevera) | Chrome extension that saves any web page as a clean, high-quality PDF in one click |
+| [Tape](https://github.com/muhamoussa7/tape) | Chrome extension that downloads any video from any website, in the quality you pick and with subtitles |
 
 #### What I focus on
 
