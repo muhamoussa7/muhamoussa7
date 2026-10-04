@@ -12,6 +12,7 @@ This is where I build product ideas end to end. Each project is written up the w
 | [Tape](https://github.com/muhamoussa7/tape) | Chrome extension that downloads any video from any website, in the quality you pick and with subtitles |
 | [Saysheet](https://github.com/muhamoussa7/saysheet) | Chrome extension that exports the comments and replies on a Facebook or LinkedIn post to an organized Excel workbook |
 | [AI Life Advisor](https://github.com/muhamoussa7/ai-life-advisor) | Working prototype of an AI sales journey for a fictional Saudi life insurer, from an Arabic-first advisor to a dashboard that scores each lead |
+| [Lebna](https://github.com/muhamoussa7/fractional-property-app-revamp) | Audit and redesign of a Saudi fractional real-estate app, with a working Arabic prototype and the competitor research behind it |
 
 #### What I focus on
 
